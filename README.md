@@ -3,12 +3,12 @@
   <a href="https://Oso.com/">
     <img
       alt="Oso"
-      src="http://clipart-library.com/images/ki8pMekir.png" width="192" height="120" 
+      src="https://github.com/OsoSuerte/Logizomechanophobia/blob/master/Osos%20profile.png" width="200" height="200" 
     />
   </a>
 </p>
 
-“Selenium_Expedia” Is designed to show basic web test automation . 
+â€œSelenium_Expediaâ€ Is designed to show basic web test automation . 
 
 Rest of readme coming soon!!!
 
